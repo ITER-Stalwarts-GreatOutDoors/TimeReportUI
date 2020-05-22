@@ -1,0 +1,18 @@
+.order-container {
+    font-family: Arial;
+    color: #333333;	
+      font-size: 16px;
+    min-height: 114px;  
+    border-radius: 4px;
+    background-color: #FAF6F4;
+    margin-bottom: 30px;
+  }
+
+  
+
+  .order-body {
+    /*display: none; */
+    color: #222222;
+    font-size: 16px;
+    line-height: 18px;   
+  }
